@@ -1,0 +1,1 @@
+Welcome to my 28-Day MERN Stack Development Challenge! Over the next four weeks, I will be dedicating myself to enhancing my skills in the MERN stack, which comprises MongoDB, Express.js, React.js, and Node.js. This challenge is designed to deepen my understanding, refine my coding practices, and build a portfolio of projects that demonstrate my proficiency.
